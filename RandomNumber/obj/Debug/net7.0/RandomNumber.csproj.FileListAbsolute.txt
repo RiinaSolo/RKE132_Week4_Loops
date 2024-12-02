@@ -1,0 +1,15 @@
+/Users/riinasolomonova/Projects/Week 4- Loops/RandomNumber/bin/Debug/net7.0/RandomNumber
+/Users/riinasolomonova/Projects/Week 4- Loops/RandomNumber/bin/Debug/net7.0/RandomNumber.deps.json
+/Users/riinasolomonova/Projects/Week 4- Loops/RandomNumber/bin/Debug/net7.0/RandomNumber.runtimeconfig.json
+/Users/riinasolomonova/Projects/Week 4- Loops/RandomNumber/bin/Debug/net7.0/RandomNumber.dll
+/Users/riinasolomonova/Projects/Week 4- Loops/RandomNumber/bin/Debug/net7.0/RandomNumber.pdb
+/Users/riinasolomonova/Projects/Week 4- Loops/RandomNumber/obj/Debug/net7.0/RandomNumber.csproj.AssemblyReference.cache
+/Users/riinasolomonova/Projects/Week 4- Loops/RandomNumber/obj/Debug/net7.0/RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riinasolomonova/Projects/Week 4- Loops/RandomNumber/obj/Debug/net7.0/RandomNumber.AssemblyInfoInputs.cache
+/Users/riinasolomonova/Projects/Week 4- Loops/RandomNumber/obj/Debug/net7.0/RandomNumber.AssemblyInfo.cs
+/Users/riinasolomonova/Projects/Week 4- Loops/RandomNumber/obj/Debug/net7.0/RandomNumber.csproj.CoreCompileInputs.cache
+/Users/riinasolomonova/Projects/Week 4- Loops/RandomNumber/obj/Debug/net7.0/RandomNumber.dll
+/Users/riinasolomonova/Projects/Week 4- Loops/RandomNumber/obj/Debug/net7.0/refint/RandomNumber.dll
+/Users/riinasolomonova/Projects/Week 4- Loops/RandomNumber/obj/Debug/net7.0/RandomNumber.pdb
+/Users/riinasolomonova/Projects/Week 4- Loops/RandomNumber/obj/Debug/net7.0/RandomNumber.genruntimeconfig.cache
+/Users/riinasolomonova/Projects/Week 4- Loops/RandomNumber/obj/Debug/net7.0/ref/RandomNumber.dll

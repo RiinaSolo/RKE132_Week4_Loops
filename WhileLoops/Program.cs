@@ -1,0 +1,28 @@
+﻿// While loop paneb käima nii kaua kuni mingi tingimus täitub
+Random rnd = new Random();
+int cpuRandom;
+
+bool loopActive = true; //bool - true/false
+
+while (loopActive)
+{
+    cpuRandom = rnd.Next(1, 4);
+    Console.WriteLine($"cpu has generated {cpuRandom}");
+    Console.WriteLine("Make a guess. Enter a number 1-3:");
+    int userNumber = Int32.Parse(Console.ReadLine());
+
+    if (userNumber == cpuRandom)
+    {
+        Console.WriteLine("Congrats");
+        //loopActive = false;
+        break;
+
+
+
+    }
+    else
+    {
+        Console.WriteLine(" Sry, nope");
+    }
+}
+Console.WriteLine("ok, nice one, bye"); 

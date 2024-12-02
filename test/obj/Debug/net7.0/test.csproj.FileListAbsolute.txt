@@ -1,0 +1,15 @@
+/Users/riinasolomonova/Projects/Week 4- Loops/test/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/Users/riinasolomonova/Projects/Week 4- Loops/test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riinasolomonova/Projects/Week 4- Loops/test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/Users/riinasolomonova/Projects/Week 4- Loops/test/obj/Debug/net7.0/test.AssemblyInfo.cs
+/Users/riinasolomonova/Projects/Week 4- Loops/test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/Users/riinasolomonova/Projects/Week 4- Loops/test/bin/Debug/net7.0/test
+/Users/riinasolomonova/Projects/Week 4- Loops/test/bin/Debug/net7.0/test.deps.json
+/Users/riinasolomonova/Projects/Week 4- Loops/test/bin/Debug/net7.0/test.runtimeconfig.json
+/Users/riinasolomonova/Projects/Week 4- Loops/test/bin/Debug/net7.0/test.dll
+/Users/riinasolomonova/Projects/Week 4- Loops/test/bin/Debug/net7.0/test.pdb
+/Users/riinasolomonova/Projects/Week 4- Loops/test/obj/Debug/net7.0/test.dll
+/Users/riinasolomonova/Projects/Week 4- Loops/test/obj/Debug/net7.0/refint/test.dll
+/Users/riinasolomonova/Projects/Week 4- Loops/test/obj/Debug/net7.0/test.pdb
+/Users/riinasolomonova/Projects/Week 4- Loops/test/obj/Debug/net7.0/test.genruntimeconfig.cache
+/Users/riinasolomonova/Projects/Week 4- Loops/test/obj/Debug/net7.0/ref/test.dll

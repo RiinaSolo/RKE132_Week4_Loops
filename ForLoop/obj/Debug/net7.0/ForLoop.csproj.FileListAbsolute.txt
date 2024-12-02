@@ -1,0 +1,15 @@
+/Users/riinasolomonova/Projects/Week 4- Loops/ForLoop/obj/Debug/net7.0/ForLoop.csproj.AssemblyReference.cache
+/Users/riinasolomonova/Projects/Week 4- Loops/ForLoop/obj/Debug/net7.0/ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riinasolomonova/Projects/Week 4- Loops/ForLoop/obj/Debug/net7.0/ForLoop.AssemblyInfoInputs.cache
+/Users/riinasolomonova/Projects/Week 4- Loops/ForLoop/obj/Debug/net7.0/ForLoop.AssemblyInfo.cs
+/Users/riinasolomonova/Projects/Week 4- Loops/ForLoop/obj/Debug/net7.0/ForLoop.csproj.CoreCompileInputs.cache
+/Users/riinasolomonova/Projects/Week 4- Loops/ForLoop/bin/Debug/net7.0/ForLoop
+/Users/riinasolomonova/Projects/Week 4- Loops/ForLoop/bin/Debug/net7.0/ForLoop.deps.json
+/Users/riinasolomonova/Projects/Week 4- Loops/ForLoop/bin/Debug/net7.0/ForLoop.runtimeconfig.json
+/Users/riinasolomonova/Projects/Week 4- Loops/ForLoop/bin/Debug/net7.0/ForLoop.dll
+/Users/riinasolomonova/Projects/Week 4- Loops/ForLoop/bin/Debug/net7.0/ForLoop.pdb
+/Users/riinasolomonova/Projects/Week 4- Loops/ForLoop/obj/Debug/net7.0/ForLoop.dll
+/Users/riinasolomonova/Projects/Week 4- Loops/ForLoop/obj/Debug/net7.0/refint/ForLoop.dll
+/Users/riinasolomonova/Projects/Week 4- Loops/ForLoop/obj/Debug/net7.0/ForLoop.pdb
+/Users/riinasolomonova/Projects/Week 4- Loops/ForLoop/obj/Debug/net7.0/ForLoop.genruntimeconfig.cache
+/Users/riinasolomonova/Projects/Week 4- Loops/ForLoop/obj/Debug/net7.0/ref/ForLoop.dll

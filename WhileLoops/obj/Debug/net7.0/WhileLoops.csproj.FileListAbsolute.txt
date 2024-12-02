@@ -1,0 +1,15 @@
+/Users/riinasolomonova/Projects/Week 4- Loops/WhileLoops/bin/Debug/net7.0/WhileLoops
+/Users/riinasolomonova/Projects/Week 4- Loops/WhileLoops/bin/Debug/net7.0/WhileLoops.deps.json
+/Users/riinasolomonova/Projects/Week 4- Loops/WhileLoops/bin/Debug/net7.0/WhileLoops.runtimeconfig.json
+/Users/riinasolomonova/Projects/Week 4- Loops/WhileLoops/bin/Debug/net7.0/WhileLoops.dll
+/Users/riinasolomonova/Projects/Week 4- Loops/WhileLoops/bin/Debug/net7.0/WhileLoops.pdb
+/Users/riinasolomonova/Projects/Week 4- Loops/WhileLoops/obj/Debug/net7.0/WhileLoops.csproj.AssemblyReference.cache
+/Users/riinasolomonova/Projects/Week 4- Loops/WhileLoops/obj/Debug/net7.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riinasolomonova/Projects/Week 4- Loops/WhileLoops/obj/Debug/net7.0/WhileLoops.AssemblyInfoInputs.cache
+/Users/riinasolomonova/Projects/Week 4- Loops/WhileLoops/obj/Debug/net7.0/WhileLoops.AssemblyInfo.cs
+/Users/riinasolomonova/Projects/Week 4- Loops/WhileLoops/obj/Debug/net7.0/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/riinasolomonova/Projects/Week 4- Loops/WhileLoops/obj/Debug/net7.0/WhileLoops.dll
+/Users/riinasolomonova/Projects/Week 4- Loops/WhileLoops/obj/Debug/net7.0/refint/WhileLoops.dll
+/Users/riinasolomonova/Projects/Week 4- Loops/WhileLoops/obj/Debug/net7.0/WhileLoops.pdb
+/Users/riinasolomonova/Projects/Week 4- Loops/WhileLoops/obj/Debug/net7.0/WhileLoops.genruntimeconfig.cache
+/Users/riinasolomonova/Projects/Week 4- Loops/WhileLoops/obj/Debug/net7.0/ref/WhileLoops.dll
